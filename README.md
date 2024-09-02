@@ -29,18 +29,18 @@ To get started with the Word Typing Race Game, follow these steps:
    ```bash
    git clone https://github.com/oktaywhite/word-typing-race-game.git
 
-How to Play
+## How to Play
 Start the Game: Open index.html in your browser, and the game will load automatically.
 Type the Words: Type the words displayed on the screen as quickly and accurately as possible.
 Earn Points: Each correct word earns points. The faster you type, the higher your score!
 Compete and Improve: Challenge your friends or play solo to improve your typing speed and accuracy.
 
-Technologies Used
+## Technologies Used
 HTML5: Provides the structure for the game.
 CSS3: Used for styling and ensuring a responsive design across devices.
 JavaScript: Handles the game logic, real-time score updates, and dynamic word generation.
-7
-Development and Customization
+
+## Development and Customization
 This project is a great starting point for those looking to learn or improve their skills in web development. Feel free to fork the repository and experiment with new features or enhancements such as:
 
 Adding sound effects or background music for a more engaging experience.
