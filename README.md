@@ -8,9 +8,6 @@ Welcome to the Word Typing Race Game! This is a fun, interactive, and competitiv
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Features
 
