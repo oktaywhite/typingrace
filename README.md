@@ -27,7 +27,7 @@ To get started with the Word Typing Race Game, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/word-typing-race-game.git
+   git clone https://github.com/oktaywhite/word-typing-race-game.git
 
 How to Play
 Start the Game: Open index.html in your browser, and the game will load automatically.
